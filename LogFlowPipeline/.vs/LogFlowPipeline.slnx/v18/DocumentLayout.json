@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\New folder\\Beykoz3\\YazilimMimari\\LogFlowPipeline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35DF2AF7-46AF-47ED-8B29-1C4F2E3C40A2}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\logflowpipeline\\logflowpipeline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DF2AF7-46AF-47ED-8B29-1C4F2E3C40A2}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DF2AF7-46AF-47ED-8B29-1C4F2E3C40A2}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\logflowpipeline\\logflowpipeline\\pipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DF2AF7-46AF-47ED-8B29-1C4F2E3C40A2}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\pipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DF2AF7-46AF-47ED-8B29-1C4F2E3C40A2}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\logflowpipeline\\logflowpipeline\\data\\access-small.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{35DF2AF7-46AF-47ED-8B29-1C4F2E3C40A2}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\data\\access-small.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DF2AF7-46AF-47ED-8B29-1C4F2E3C40A2}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\logflowpipeline\\logflowpipeline\\logflowpipeline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35DF2AF7-46AF-47ED-8B29-1C4F2E3C40A2}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\logflowpipeline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DF2AF7-46AF-47ED-8B29-1C4F2E3C40A2}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\logflowpipeline\\logflowpipeline\\components.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DF2AF7-46AF-47ED-8B29-1C4F2E3C40A2}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\components.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DF2AF7-46AF-47ED-8B29-1C4F2E3C40A2}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\logflowpipeline\\logflowpipeline\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DF2AF7-46AF-47ED-8B29-1C4F2E3C40A2}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "access-small.log",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\LogFlowPipeline\\LogFlowPipeline\\data\\access-small.log",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\data\\access-small.log",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\LogFlowPipeline\\LogFlowPipeline\\data\\access-small.log",
+              "RelativeToolTip": "LogFlowPipeline\\data\\access-small.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-09-29T11:42:27.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogFlowPipeline",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\LogFlowPipeline\\LogFlowPipeline\\LogFlowPipeline.csproj",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\LogFlowPipeline.csproj",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\LogFlowPipeline\\LogFlowPipeline\\LogFlowPipeline.csproj",
+              "RelativeToolTip": "LogFlowPipeline\\LogFlowPipeline.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-29T11:37:05.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pipeline.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\LogFlowPipeline\\LogFlowPipeline\\Pipeline.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\Pipeline.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\LogFlowPipeline\\LogFlowPipeline\\Pipeline.cs",
+              "RelativeToolTip": "LogFlowPipeline\\Pipeline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T11:39:43.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Components.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\LogFlowPipeline\\LogFlowPipeline\\Components.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\Components.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\LogFlowPipeline\\LogFlowPipeline\\Components.cs",
+              "RelativeToolTip": "LogFlowPipeline\\Components.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T11:38:11.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\LogFlowPipeline\\LogFlowPipeline\\Interfaces.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\Interfaces.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\LogFlowPipeline\\LogFlowPipeline\\Interfaces.cs",
+              "RelativeToolTip": "LogFlowPipeline\\Interfaces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T11:33:39.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\LogFlowPipeline\\LogFlowPipeline\\Program.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\Program.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\LogFlowPipeline\\LogFlowPipeline\\Program.cs",
+              "RelativeToolTip": "LogFlowPipeline\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T11:28:07.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
