@@ -1,0 +1,7 @@
+pipeline: { name: error-report }
+source: { type: file, parameters: { path: data/dataFile.log } }
+stages:
+  - { type: parse,    parameters: { format: custom } }
+  - { type: filter,   parameters: { field: status, op: ">=", value: 400 } }
+  - { type: project,  parameters: { fields: [timestamp, clientIp, status, path] } }
+sink: { type: file, parameters: { path: out/errors.txt } }

@@ -1,0 +1,1 @@
+  - { type: filter, parameters: { field: path, op: startsWith, value: /api } }

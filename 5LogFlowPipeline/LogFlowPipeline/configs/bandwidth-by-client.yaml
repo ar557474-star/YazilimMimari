@@ -1,0 +1,4 @@
+stages:
+  - { type: parse, parameters: { format: custom } }
+  - { type: bandwidth-by-client, parameters: { output: out/bandwidth.txt } }
+sink: { type: file, parameters: { path: out/bandwidth-detail.txt } }

@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline\\pipelineloadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\pipelineloadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline\\configs\\bandwidth-by-client.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\configs\\bandwidth-by-client.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline\\configs\\api-traffic.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\configs\\api-traffic.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline\\configs\\error-report.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\configs\\error-report.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline\\config\\pipelineconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\config\\pipelineconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline\\config\\stagefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\config\\stagefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline\\config\\pipelineloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\config\\pipelineloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline\\stages\\bandwidthbyclientstage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\stages\\bandwidthbyclientstage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline\\stages\\configurablefilterstage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\stages\\configurablefilterstage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline\\config\\stageregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\config\\stageregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline\\filesink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\filesink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline\\components.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\components.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline\\projectionstage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\projectionstage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline\\parserstage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\parserstage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline\\config\\stageattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\config\\stageattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline\\pipelinebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\pipelinebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline\\pipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\pipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline\\data\\datafile.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\data\\datafile.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline\\predicatefilterstage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FBADD-2B68-8308-631E-5BF01EE06591}|LogFlowPipeline\\LogFlowPipeline.csproj|solutionrelative:logflowpipeline\\predicatefilterstage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B94B08-79D4-41CA-BFA3-5B439E64E00E}|LogFlowPipeline.Tests\\LogFlowPipeline.Tests.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline.tests\\parserstagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B94B08-79D4-41CA-BFA3-5B439E64E00E}|LogFlowPipeline.Tests\\LogFlowPipeline.Tests.csproj|solutionrelative:logflowpipeline.tests\\parserstagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B94B08-79D4-41CA-BFA3-5B439E64E00E}|LogFlowPipeline.Tests\\LogFlowPipeline.Tests.csproj|e:\\new folder\\beykoz3\\yazilimmimari\\5logflowpipeline\\logflowpipeline.tests\\collectingemitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B94B08-79D4-41CA-BFA3-5B439E64E00E}|LogFlowPipeline.Tests\\LogFlowPipeline.Tests.csproj|solutionrelative:logflowpipeline.tests\\collectingemitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PipelineLoaderTests.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\PipelineLoaderTests.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\PipelineLoaderTests.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\PipelineLoaderTests.cs",
+              "RelativeToolTip": "LogFlowPipeline\\PipelineLoaderTests.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAQwG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:01:07.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bandwidth-by-client.yaml",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\configs\\bandwidth-by-client.yaml",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\configs\\bandwidth-by-client.yaml",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\configs\\bandwidth-by-client.yaml",
+              "RelativeToolTip": "LogFlowPipeline\\configs\\bandwidth-by-client.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-10-20T16:00:01.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "api-traffic.yaml",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\configs\\api-traffic.yaml",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\configs\\api-traffic.yaml",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\configs\\api-traffic.yaml",
+              "RelativeToolTip": "LogFlowPipeline\\configs\\api-traffic.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-10-20T15:59:35.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "error-report.yaml",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\configs\\error-report.yaml",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\configs\\error-report.yaml",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\configs\\error-report.yaml",
+              "RelativeToolTip": "LogFlowPipeline\\configs\\error-report.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-10-20T15:58:18.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StageFactory.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Config\\StageFactory.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\Config\\StageFactory.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Config\\StageFactory.cs",
+              "RelativeToolTip": "LogFlowPipeline\\Config\\StageFactory.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:55:02.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PipelineLoader.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Config\\PipelineLoader.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\Config\\PipelineLoader.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Config\\PipelineLoader.cs",
+              "RelativeToolTip": "LogFlowPipeline\\Config\\PipelineLoader.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:54:22.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PipelineConfig.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Config\\PipelineConfig.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\Config\\PipelineConfig.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Config\\PipelineConfig.cs",
+              "RelativeToolTip": "LogFlowPipeline\\Config\\PipelineConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:53:46.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BandwidthByClientStage.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Stages\\BandwidthByClientStage.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\Stages\\BandwidthByClientStage.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Stages\\BandwidthByClientStage.cs",
+              "RelativeToolTip": "LogFlowPipeline\\Stages\\BandwidthByClientStage.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:52:36.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Program.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\Program.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Program.cs",
+              "RelativeToolTip": "LogFlowPipeline\\Program.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAmwNgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:07:01.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigurableFilterStage.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Stages\\ConfigurableFilterStage.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\Stages\\ConfigurableFilterStage.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Stages\\ConfigurableFilterStage.cs",
+              "RelativeToolTip": "LogFlowPipeline\\Stages\\ConfigurableFilterStage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:51:46.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StageRegistry.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Config\\StageRegistry.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\Config\\StageRegistry.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Config\\StageRegistry.cs",
+              "RelativeToolTip": "LogFlowPipeline\\Config\\StageRegistry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:49:55.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Components.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Components.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\Components.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Components.cs",
+              "RelativeToolTip": "LogFlowPipeline\\Components.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:48:57.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StageAttribute.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Config\\StageAttribute.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\Config\\StageAttribute.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Config\\StageAttribute.cs",
+              "RelativeToolTip": "LogFlowPipeline\\Config\\StageAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:47:31.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ParserStage.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\ParserStage.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\ParserStage.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\ParserStage.cs",
+              "RelativeToolTip": "LogFlowPipeline\\ParserStage.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T13:26:20.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Pipeline.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Pipeline.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\Pipeline.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Pipeline.cs",
+              "RelativeToolTip": "LogFlowPipeline\\Pipeline.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAALYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:34:17.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PipelineBuilder.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\PipelineBuilder.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\PipelineBuilder.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\PipelineBuilder.cs",
+              "RelativeToolTip": "LogFlowPipeline\\PipelineBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:32:49.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileSink.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\FileSink.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\FileSink.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\FileSink.cs",
+              "RelativeToolTip": "LogFlowPipeline\\FileSink.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:32:18.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProjectionStage.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\ProjectionStage.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\ProjectionStage.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\ProjectionStage.cs",
+              "RelativeToolTip": "LogFlowPipeline\\ProjectionStage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:31:30.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dataFile.log",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\data\\dataFile.log",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\data\\dataFile.log",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\data\\dataFile.log",
+              "RelativeToolTip": "LogFlowPipeline\\data\\dataFile.log",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwCEAAABHAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-10-13T13:10:16.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PredicateFilterStage.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\PredicateFilterStage.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\PredicateFilterStage.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\PredicateFilterStage.cs",
+              "RelativeToolTip": "LogFlowPipeline\\PredicateFilterStage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:30:56.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ParserStageTests.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline.Tests\\ParserStageTests.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline.Tests\\ParserStageTests.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline.Tests\\ParserStageTests.cs",
+              "RelativeToolTip": "LogFlowPipeline.Tests\\ParserStageTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:11:57.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Interfaces.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline\\Interfaces.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline\\Interfaces.cs",
+              "RelativeToolTip": "LogFlowPipeline\\Interfaces.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:07:40.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CollectingEmitter.cs",
+              "DocumentMoniker": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline.Tests\\CollectingEmitter.cs",
+              "RelativeDocumentMoniker": "LogFlowPipeline.Tests\\CollectingEmitter.cs",
+              "ToolTip": "E:\\New folder\\Beykoz3\\YazilimMimari\\5LogFlowPipeline\\LogFlowPipeline.Tests\\CollectingEmitter.cs",
+              "RelativeToolTip": "LogFlowPipeline.Tests\\CollectingEmitter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:07:34.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
