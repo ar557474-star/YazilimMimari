@@ -1,0 +1,5 @@
+clientIp=192.168.1.10 | bytes=1532
+clientIp=192.168.1.11 | bytes=2326
+clientIp=192.168.1.10 | bytes=128
+clientIp=10.0.0.5 | bytes=512
+clientIp=10.0.0.5 | bytes=64
