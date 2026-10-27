@@ -1,0 +1,27 @@
+pipeline:
+  name: chaos-test
+  source:
+    type: file
+    params: { path: data/access-dirty.log }
+  stages:
+    - type: parse
+      onError: DEAD_LETTER
+      params: { format: clf, maxLineLength: 8192 }
+    - type: validate
+      onError: DEAD_LETTER
+      params:
+        requiredFields: [clientIp, method, path]
+        statusMin: 100
+        statusMax: 599
+        bytesMin: 0
+        minYear: 2000
+        maxYear: 2030
+        validateIp: true
+    - type: project
+      params: { fields: [timestamp, clientIp, status, path, bytes] }
+  sink:
+    type: file
+    params: { path: out/clean.txt }
+  deadLetter:
+    type: file
+    params: { path: out/dead-letter.txt }

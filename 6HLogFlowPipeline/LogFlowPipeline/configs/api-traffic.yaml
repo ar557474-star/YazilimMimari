@@ -1,0 +1,15 @@
+pipeline:
+  name: api-traffic
+  source:
+    type: file
+    params: { path: data/access.log }
+  stages:
+    - type: parse
+      params: { format: clf }
+    - type: filter
+      params: { field: path, op: startsWith, value: /api }
+    - type: project
+      params: { fields: [timestamp, clientIp, method, path, status] }
+  sink:
+    type: file
+    params: { path: out/api-traffic.txt }
