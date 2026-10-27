@@ -1,0 +1,7 @@
+E:\New folder\Beykoz3\YazilimMimari\3LogFlowPipeline\publish\data\dataFile.log
+E:\New folder\Beykoz3\YazilimMimari\3LogFlowPipeline\publish\logflow.exe
+E:\New folder\Beykoz3\YazilimMimari\3LogFlowPipeline\publish\logflow.dll
+E:\New folder\Beykoz3\YazilimMimari\3LogFlowPipeline\publish\logflow.deps.json
+E:\New folder\Beykoz3\YazilimMimari\3LogFlowPipeline\publish\logflow.runtimeconfig.json
+E:\New folder\Beykoz3\YazilimMimari\3LogFlowPipeline\publish\logflow.pdb
+E:\New folder\Beykoz3\YazilimMimari\3LogFlowPipeline\publish\YamlDotNet.dll

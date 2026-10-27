@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LogFlowPipeline.Tests/LogFlowPipeline.Tests.csproj" Id="d2b94b08-79d4-41ca-bfa3-5b439e64e00e" />
+  <Project Path="LogFlowPipeline/LogFlowPipeline.csproj" />
+</Solution>
